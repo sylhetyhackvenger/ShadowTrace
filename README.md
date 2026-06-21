@@ -1,4 +1,4 @@
-<p align="center">SHADOW TRACER</p>
+<p align="center">SHADOW TRACE</p>
 
 <p align="center">
 <img src="assets/image.png" width="800">
