@@ -3,10 +3,6 @@
 <p align="center">
 <img src="assets/image.png" width="800">
 </p><p align="center">
-<img src="https://your-gif-1.gif" width="32%">
-<img src="https://your-gif-2.gif" width="32%">
-<img src="https://your-gif-3.gif" width="32%">
-</p><p align="center">
 <b>⚡Open Source Intelligence Suite ⚡</b><br>
 <i>"Every packet tells a story."</i>
 </p>---
