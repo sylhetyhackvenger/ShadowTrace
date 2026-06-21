@@ -37,8 +37,8 @@ Built with multithreading support and an immersive neon-styled interface, The su
 
 📦 Installation
 
-git clone https://github.com/yourusername/shadow-tracer.git
-cd shadow-tracer
+git clone https://github.com/sylhetyhackvenger/ShadowTrace
+cd ShadowTrace
 
 pip install requests
 pip install phonenumbers
@@ -46,7 +46,7 @@ pip install colorama
 
 Run:
 
-python shadow_tracer.py
+python ShadowTrace.py
 
 ---
 
@@ -60,7 +60,7 @@ python shadow_tracer.py
 
 Example:
 
-python shadow_tracer.py
+python ShadowTrace.py
 
 Select:
 
@@ -79,6 +79,6 @@ This project is intended for educational purposes, authorized security testing, 
 
 <p align="center">
 Made with ⚡ by <b>SYLHETYHACKVENGER (THE-ERROR808)</b><br>
-<b>SHADOW TRACER v2.0</b><br>
+<b>SHADOW TRACE v2.0</b><br>
 <i>Break the matrix, one trace at a time.</i>
 </p>
